@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Raleway";
+  src: url(../fonts/Raleway-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: "Raleway";
+  display: flex;
+  justify-content: center;
+}
+
+.game {
+  position: absolute;
+  top: 7%;
+}
+
+.min-num,
+.max-num {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.guess-input {
+  background: #fff;
+  border: 1px solid #222;
+  border-radius: 4px;
+  outline: none;
+  padding: 0.5em 1.3em;
+}
+
+.guess-btn,
+.play-again {
+  background: #fff;
+  border: 1px solid #222;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: 0.5em 1.3em;
+}
+
+.play-again {
+  background-color: #cefab1;
+}
