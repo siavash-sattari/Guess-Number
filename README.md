@@ -1,14 +1,8 @@
-## [DEMO](https://pages.github.com/)
+# Guess-Number 
 
-<div align="cnter">
+## [DEMO](https://js-project-guess-number.netlify.app)
 
-<kbd>
-
-![1](https://user-images.githubusercontent.com/88406720/135780418-3096c877-a903-487a-bc5c-e368fb5d52e8.PNG)
-
-</kbd>
-
-</div>
+![guess-number](https://user-images.githubusercontent.com/88406720/139230488-4e0b8678-e67d-4fa4-b3fc-503e2b4e68c7.PNG)
 
 ## Functionality 
 
